@@ -27,7 +27,7 @@
 **一个优雅、现代化的网站导航管理系统**
 基于 Cloudflare Workers 构建 • 零成本部署 • 全球 CDN 加速 • 企业级安全
 
-[📖 完整文档](https://zqq-nuli.github.io/Cloudflare-Navihive/) • [🎮 在线演示](https://navihive.chatbot.cab/) • [🚀 快速开始](https://zqq-nuli.github.io/Cloudflare-Navihive/deployment/) • [💬 问题反馈](https://github.com/zqq-nuli/Cloudflare-Navihive/issues)
+[📖 完整文档](https://zqq-nuli.github.io/Cloudflare-Navihive/) • [🎮 在线演示](https://navihive.chatbot.cab/) • [🚀 快速开始](https://zqq-nuli.github.io/Cloudflare-Navihive/deployment/) • [💬 问题反馈](https://github.com/zzy-svg/Cloudflare-Navihive/issues)
 
 </div>
 
